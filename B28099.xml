@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercurius verax, or, The prisoners prognostications for the year 1675 wherein are prophesied several truths of very great moment yet to come to pass, which he that contradicts let him have a care he does not find them true by experience / by the author of the first Montelion and Satyr against hypocrites.</title>
+            <author>Phillips, John, 1631-1706.</author>
+         </titleStmt>
+         <extent>Approx. 63KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28099</idno><idno type="EEBO-CITATION">11244234</idno>
+  <idno type="VID">204983</idno>
+  <idno type="EEBO-PROQUEST">2248496756</idno>
+  
+            <idno type="STC">Wing P2093</idno>
+            <idno type="OCLC">11244234</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28099)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204983)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1448:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercurius verax, or, The prisoners prognostications for the year 1675 wherein are prophesied several truths of very great moment yet to come to pass, which he that contradicts let him have a care he does not find them true by experience / by the author of the first Montelion and Satyr against hypocrites.</title>
+                  <author>Phillips, John, 1631-1706.</author>
+               </titleStmt>
+               <extent>54 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Cutler,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Almanacs, English.</term>
+               <term type="topical_term">Prophecies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204983:1"/>
+            <pb facs="tcp:204983:2"/>
+            <p>
+               <pb facs="tcp:204983:2"/>
+               <hi>Mercurius Verax:</hi>
+            </p>
+            <p>OR THE PRISONERS PROGNOSTICATIONS For the Year 1675.</p>
+            <p>
+               <hi>Wherein are Prophesied</hi> Several TRUTHS of very great Moment, yet to come to pass: Which, he that contradicts, let him have a care he does not find them true by EXPERIENCE.</p>
+            <p>
+               <hi>By the Author of the first</hi> Montelion, <hi>and Satyr against Hypocrites.—</hi>
+            </p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Cutler.</hi> 1675.</p>
+            <pb facs="tcp:204983:3"/>
+         </div>
+         <div type="guide_for_reading_the_almanac">
+            <pb facs="tcp:204983:3"/>
+            <head>The Explanation of the Almanack.</head>
+            <p>HAving on the upper part the Months, and under them the figures for the days of the Month, from 1 till 31. under them your Domi<g ref="char:EOLhyphen"/>nical Letters, and in the lower part the Letters for the days of the week, from Sunday to Satur<g ref="char:EOLhyphen"/>day; on each side you have the year of our Lord from 1660 till 1687. on each side them is your Dominical Letters. Now to know your day, first, find out your year, next your Dominical Letter against that year, which letter find in the lower part of the Almanack, and the letter un<g ref="char:EOLhyphen"/>der this is the day of the week for your obser<g ref="char:EOLhyphen"/>vation for the whole year. Only every Leap<g ref="char:EOLhyphen"/>year you have two Dominical Letters, which you must observe, the first for <hi>January</hi> and <hi>Fe<g ref="char:EOLhyphen"/>bruary,</hi> and the next for all the year after.</p>
+            <p>IN the year 1660, you find the letters <hi>AG. A</hi> di<g ref="char:EOLhyphen"/>rects you to Saturday for <hi>January</hi> and <hi>Februa<g ref="char:EOLhyphen"/>ry,</hi> and <hi>G.</hi> to Sunday for all the year after: so that you find the first Saturday in <hi>January</hi> is the 7 day, and under that Saturdays for that Month, and un<g ref="char:EOLhyphen"/>der <hi>February</hi> 4, which are Saturdaies for that Month: But in <hi>March</hi> you must observe <hi>G.</hi> which directs you to Sunday, so that the first Sunday in <hi>March</hi> is the fourth day, and so you reckon forward. <hi>April</hi> and <hi>July,</hi> the first Sunday is the first day of the Month, and so of the rest. In the year 1661. you find your Dominical letter <hi>F.</hi> which directs you to Monday, which is your Observation for that year, and so you find the rest: and when you are at 1687. you may begin again.</p>
+            <pb facs="tcp:204983:4"/>
+            <p>
+               <table>
+                  <head>A perpetual Almanack.</head>
+                  <row>
+                     <cell role="label" rows="3">Do<g ref="char:EOLhyphen"/>min let<g ref="char:EOLhyphen"/>ters</cell>
+                     <cell role="label" rows="3">Year of our Lord</cell>
+                     <cell role="label">Apr</cell>
+                     <cell role="label">Sep.</cell>
+                     <cell role="label">Jun</cell>
+                     <cell role="label">Mar</cell>
+                     <cell role="label" rows="2">Au<g ref="char:EOLhyphen"/>gust</cell>
+                     <cell role="label" rows="3">May.</cell>
+                     <cell role="label" rows="2">Ja<g ref="char:EOLhyphen"/>nu<g ref="char:EOLhyphen"/>ary.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>July</cell>
+                     <cell>Dec</cell>
+                     <cell> </cell>
+                     <cell>Nov</cell>
+                     <cell>*</cell>
+                     <cell>*</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>Feb.</cell>
+                     <cell> </cell>
+                     <cell>Oct.</cell>
+                     <cell>*</cell>
+                     <cell>*</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A G</hi>
+                     </cell>
+                     <cell>1660</cell>
+                     <cell rows="2">1</cell>
+                     <cell rows="2">2</cell>
+                     <cell rows="2">3</cell>
+                     <cell rows="2">4</cell>
+                     <cell rows="2">5</cell>
+                     <cell rows="2">6</cell>
+                     <cell rows="2">7</cell>
+                     <cell>4</cell>
+                     <cell>
+                        <hi>D</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>F</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>5</cell>
+                     <cell>
+                        <hi>C</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>E</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell rows="2">8</cell>
+                     <cell rows="2">9</cell>
+                     <cell rows="2">10</cell>
+                     <cell rows="2">11</cell>
+                     <cell rows="2">12</cell>
+                     <cell rows="2">13</cell>
+                     <cell rows="2">14</cell>
+                     <cell>6</cell>
+                     <cell>
+                        <hi>B A</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>D</hi>
+                     </cell>
+                     <cell>3</cell>
+                     <cell>7</cell>
+                     <cell>
+                        <hi>G</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>C B</hi>
+                     </cell>
+                     <cell>4</cell>
+                     <cell rows="2">15</cell>
+                     <cell rows="2">16</cell>
+                     <cell rows="2">17</cell>
+                     <cell rows="2">18</cell>
+                     <cell rows="2">19</cell>
+                     <cell rows="2">20</cell>
+                     <cell rows="2">21</cell>
+                     <cell>8</cell>
+                     <cell>
+                        <hi>F</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A</hi>
+                     </cell>
+                     <cell>5</cell>
+                     <cell>9</cell>
+                     <cell>
+                        <hi>E</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>G</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell rows="2">22</cell>
+                     <cell rows="2">23</cell>
+                     <cell rows="2">24</cell>
+                     <cell rows="2">25</cell>
+                     <cell rows="2">26</cell>
+                     <cell rows="2">27</cell>
+                     <cell rows="2">28</cell>
+                     <cell>1680</cell>
+                     <cell>
+                        <hi>D C</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>F</hi>
+                     </cell>
+                     <cell>7</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>B</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>E D</hi>
+                     </cell>
+                     <cell>8</cell>
+                     <cell rows="2">29</cell>
+                     <cell rows="2">30</cell>
+                     <cell rows="2">31</cell>
+                     <cell>*</cell>
+                     <cell>*</cell>
+                     <cell>*</cell>
+                     <cell>*</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>A</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>C</hi>
+                     </cell>
+                     <cell>9</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>G</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>B</hi>
+                     </cell>
+                     <cell>1670</cell>
+                     <cell rows="2">G</cell>
+                     <cell rows="2">F</cell>
+                     <cell rows="2">E</cell>
+                     <cell rows="2">D</cell>
+                     <cell rows="2">C</cell>
+                     <cell rows="2">B</cell>
+                     <cell rows="2">A</cell>
+                     <cell>4</cell>
+                     <cell>
+                        <hi>F E</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>5</cell>
+                     <cell>
+                        <hi>D</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>G F</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell rows="2">
+                        <hi>S</hi>
+                     </cell>
+                     <cell rows="2">
+                        <hi>M</hi>
+                     </cell>
+                     <cell rows="2">
+                        <hi>T</hi>
+                     </cell>
+                     <cell rows="2">
+                        <hi>W</hi>
+                     </cell>
+                     <cell rows="2">
+                        <hi>T</hi>
+                     </cell>
+                     <cell rows="2">
+                        <hi>F</hi>
+                     </cell>
+                     <cell rows="2">
+                        <hi>S</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>C</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>E</hi>
+                     </cell>
+                     <cell>3</cell>
+                     <cell>1687</cell>
+                     <cell>
+                        <hi>B</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <pb facs="tcp:204983:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:204983:5"/>
+         </div>
+      </front>
+      <body>
+         <div type="general_predictions">
+            <pb n="1" facs="tcp:204983:5"/>
+            <head>General Judgments on the Year 1675.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ome Men took a great deal of Notice of the Year 1666, perhaps more than they needed; and therefore we have thought fit to take as much Notice of the year 1675. We do find <hi>Mercury</hi> in a <hi>plaguy</hi> dull humour, looking like a Fellow without <hi>Monye:</hi> Many Astrologers are of opinion that he had over-wrought himself or over<g ref="char:EOLhyphen"/>drank himself the night before; whatever be the Cause, it portends most mischeivous Events, especially the Breaking and Un<g ref="char:EOLhyphen"/>doing of many sorts of People, more espe<g ref="char:EOLhyphen"/>cially among those two Degrees called the <hi>Gentry</hi> and <hi>Commonalty</hi> of the Nation. For when men begin to find themselves in debt, then they Ecclipse themselves, of which there will be many to be seen in our <hi>Horri<g ref="char:EOLhyphen"/>zon,</hi> but of that more hereafter. Never does a man come to have his worth known till then, for a Serjeant or a Bayliff shall dig him out of the Earth, with as much Diligence
+<pb n="2" facs="tcp:204983:6"/> as if he were the Oar of <hi>Mexico;</hi> and ne<g ref="char:EOLhyphen"/>ver ceases till he has hid him again in some obscure place or other, never to be found, but, by chance, like a Pot of old <hi>Roman</hi> coin: But the duce is in that fullen piece of Forma<g ref="char:EOLhyphen"/>lity, Madam <hi>Astrea,</hi> who having the scales of the World in her own hands, will notwith<g ref="char:EOLhyphen"/>standing neither keep publick nor private Fortune equal; which makes many a man cry the <hi>Devil rot him,</hi> if he ever he had such cru<g ref="char:EOLhyphen"/>el Fortune in his life, to see Dice run against him as if they were in open Hostility with his Patrimony. And yet the bewitched Cox<g ref="char:EOLhyphen"/>comb will never give off till his Estate and his Cloak lies both in the <hi>Lumber</hi> together; poor Squire in <hi>Cuerpo,</hi> stript out of his means, as the <hi>Countrie-man</hi> calls it, as a man would uncase a Rabbet. This scabby hu<g ref="char:EOLhyphen"/>mour, like the <hi>Itch,</hi> runs up and down the City, abounding with the Off-spring of the Gentry, with more furie then the <hi>Sicilian</hi> fire overran the Country about <hi>Messina;</hi> so that in every street there are scarce any other <hi>Lamentations</hi> to be heard, but of the ill Hus<g ref="char:EOLhyphen"/>bandrie of the Masters, the Prodigality of Servants, till at length they fall into the Common shures of Povertie, <hi>Fleet, Kings-Bench, Counters</hi> or <hi>Ludgate;</hi> where they will never leave their old wont neither, but <hi>play</hi> at One and thirtie for Farthings rather
+<pb n="3" facs="tcp:204983:6"/> than stick out. 'Twas well <hi>Juno,</hi> the Devil of a Goddess for Envy and Emulation, was made none of the Planets, and yet, by the Sequel of Influences, either she, or some o<g ref="char:EOLhyphen"/>ther as bad as her self, has, a vengeance, great power in the Skie; most probable to be that <hi>Jezabel</hi> Venus; for women are so out<g ref="char:EOLhyphen"/>ragiously madd to see one Neighbour finer then another, that many men are forced to pawn their Consciences, as well as their Credits for one story of Lace more upon their Wives Petticoats: As if women thought mens fancies did not climb fast e<g ref="char:EOLhyphen"/>nough without such a Love-ladder. But how can these Women think to thrive? for no sooner are their husbands in the Climm, but reflecting upon the cause of their Sor<g ref="char:EOLhyphen"/>row, they curse 'um to the pit of Hell, for two causes; first, because they will never come neer them, after they have suckt their Counter tills as dry as their Bones: second<g ref="char:EOLhyphen"/>ly, when they doe come, 'tis always with Taunts in their mouths, and so gay withall, that they do but the more enrage the Credi<g ref="char:EOLhyphen"/>tors that sees them go so fine with their money.</p>
+            <p>There is another most malevolent As<g ref="char:EOLhyphen"/>pect, very active in the notching the Credit of some that would be thought Alder<g ref="char:EOLhyphen"/>mens fellowes, men that make a great
+<pb n="4" facs="tcp:204983:7"/> noise upon the Exchange: Which is the reason that this year many shall be seen to fall from the Pinacle of their Countrie-hou<g ref="char:EOLhyphen"/>ses to a Lodging in the Rules at three shil<g ref="char:EOLhyphen"/>lings a week: but there is a great diffe<g ref="char:EOLhyphen"/>rence between those that are gathered to their fathers and these dead men in law, for the one carries nothing along with them, these will let nothing that they have got slip out of their clutches; these Prison-Pismires are such as have laid aside all their Credit for the Reputation of being diligent provi<g ref="char:EOLhyphen"/>ders against the winter of their misfortune. Some think the Conjunction of <hi>Mars</hi> and <hi>Venus</hi> to be a great Enemie to the Prosperi<g ref="char:EOLhyphen"/>tie of these men; for that they plodding only how to get Estates and cheat their Cre<g ref="char:EOLhyphen"/>ditors, grow quite regardless of Love and Honour. Yet some Astrologers there are that shrewdly suspect <hi>Cepheus</hi> to have a fin<g ref="char:EOLhyphen"/>ger in the Pie, because he sits in such a mu<g ref="char:EOLhyphen"/>sing Posture in his groaning Chair: though some say, Men are now grown so knowing in practical <hi>Knavery,</hi> that they need nothing of his celestial <hi>Theory</hi> to make them more expert. Others believe that Fortune being a Whore her self could never endure any that were grown old and had left the Trade. Others believe the Influ<g ref="char:EOLhyphen"/>ence not so fatal, while the propitious Con<g ref="char:EOLhyphen"/>junction
+<pb n="5" facs="tcp:204983:7"/> of other men's Estates in their own hands, in Mortgage, contributes so much to their own Happiness Yet shall their Credi<g ref="char:EOLhyphen"/>tors think the Stars too favourable, and curse them as bitterly as ever Parson cursed <hi>Me<g ref="char:EOLhyphen"/>roz.</hi> What shall the poor Stares do? the Creditors curse them for being too kind, the rich Debtors curse them for not being kind enough: Thus ye see the Stars of Heaven, as well as the Stars upon Earth, are subject to Scandal and hard Words, and hard Usage: Nay, and if Mortals could but reach them, you would find their glittering Spheres as much battered as the Windows of <hi>Van Put<g ref="char:EOLhyphen"/>ten's</hi> House in <hi>Holland.</hi> But what malitious Planet that is which pesecutes the Poor jour<g ref="char:EOLhyphen"/>ney-men Taylors, Weavers, Coblers, Tin<g ref="char:EOLhyphen"/>kers, Butchers, and the lower Tribe of Ma<g ref="char:EOLhyphen"/>sters, most Astrologers are at a stand to dis<g ref="char:EOLhyphen"/>cover; some say, 'Tis <hi>Aquarius,</hi> a certain son of a Tankard-bearer, translated into the <hi>Zodiac</hi> for giving meate, drink and lodging to some poor Poet. If it be he, he is as testie as Justice <hi>Overdoe,</hi> and as great a Pretender to Reformation; for much about this time you will find abundance of that sort of Cattel, before mentioned, suffer un<g ref="char:EOLhyphen"/>der his <hi>Mittimus,</hi> meerly for their extrava<g ref="char:EOLhyphen"/>gant Propensity to <hi>Putt</hi> and <hi>Nine-Pi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</hi> These men at length become the <hi>Gibbeonites</hi>
+               <pb n="6" facs="tcp:204983:8"/> of the Prison at the devotion either of the <hi>Constables</hi> of the <hi>Counters,</hi> or the Stewards of <hi>Ludgate,</hi> or else make Skewers in the Common side of the <hi>Kings-Bench,</hi> born on<g ref="char:EOLhyphen"/>ly to shew the little d<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ff<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rence between Men and Beasts; only, the one can speak, the o<g ref="char:EOLhyphen"/>ther not, unless there be something more of Addition then what Nature infuses. You may be sure such sulphurus Matters, as <hi>Deb<g ref="char:EOLhyphen"/>tor</hi> and <hi>Credi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or,</hi> can never meet but strange alterations of Air must ensue, which is the reason of those d<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sperate thunder-claps to be heard every day in Guild-Hall.<hi>—Hang him Dog, I lent him my money out of my Pocket.—Cursed Curr, I only was bound for another, and here the Son of a Whore sues me to Execution.—No, I'le have no more mercy on him then I'de have on the De<g ref="char:EOLhyphen"/>vil.—Let him rot in Goal and be poxt.—I'le see him damn'd ere I'<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e pay him a groat.—I'le make him sh<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t as small as a Mouse—By this light, I owe the Rogue not a <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arthing.—He's a cheating Dog, and I'le prove it.—Hey, Clerk, Where is my Execution?—Where's my Judgment? Never such a forsworn wretch up<g ref="char:EOLhyphen"/>on God's earth—Be sure to lay the Rogue fast—</hi>A rough and stormy season truly; but such is the Nature of the Clymate nei<g ref="char:EOLhyphen"/>ther
+<pb n="7" facs="tcp:204983:8"/> do we see any Position of the Starrs likely to remedie it.</p>
+            <p>Should we foretell the death of some Ci<g ref="char:EOLhyphen"/>ty-Serjeants and Guild-hall Attorneys, 'tis a thing we might do very safely, and 'tis very probable to come to pass: But what a<g ref="char:EOLhyphen"/>vails the ceasing of one Plague when ano<g ref="char:EOLhyphen"/>ther follows in the neck on't. Could we Pro<g ref="char:EOLhyphen"/>phesie that no more of those places should be sold, we might then foretel a great Re<g ref="char:EOLhyphen"/>formation, and the return of a fair glimpse of the GOLDEN AGE. But this o<g ref="char:EOLhyphen"/>ther Prediction of ours shall most assuredly come to pass by reason of the terrible influ<g ref="char:EOLhyphen"/>ences of the Dog-Star upon that sort of Cat<g ref="char:EOLhyphen"/>tel, that these Fellows shall swallow many a fair piece of the King's coyn, which they have as little right to as the man in the Moon. But what remedy? complain—and they'l tell their Superiors as <hi>Gusman</hi> hath it in his first Chapter, <hi>That they had not their Offices for nothing, but paid soundly for them, and therefore must lick themselves whole out of other mens necessities.</hi> Prudently there<g ref="char:EOLhyphen"/>fore the same <hi>Gusman</hi> avers out of <hi>Aristotle, That the greatest wrong that can be offered to a Common wealth is the sale of Offices.</hi> Many Causes this year shall be tried, and the wit<g ref="char:EOLhyphen"/>nesses shall swear point blank to the truth, but the Jury men shall find quite Contrary.
+<pb n="8" facs="tcp:204983:9"/> Neither do we find that the Corruption of some <hi>Talis</hi> men will cease so long as this world endures. We are afraid some <hi>Talis</hi> man or other is crept into the Skie, by the help of some Astrological Under-sheriff or other, to make all this Mischief: Whom to suspect we cannot devise, unless it be that sneaking fellow call'd <hi>Auriga</hi> or the Carter, probably some <hi>Middlesex</hi> Farmer: of which there are some of them, formerly well sed and well drenched, that for a Wager shall whistle Law at the Plough tail with ere a <hi>Northfolk</hi> Dumplin of them all: I have seen of these <hi>Catt<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l</hi> appear among the Ju<g ref="char:EOLhyphen"/>rie men that are truly returned, just as in <hi>Job</hi> we find the Devil appearing among the An<g ref="char:EOLhyphen"/>gels before God: and there are those that have them alwaies ready, according as they shall be bespoke, as good Farriers have al<g ref="char:EOLhyphen"/>ways store of Horse-shoos by them, to fit all sizes of Hoofes. So that Plaintiff or Defendant need not be beholding to the Stars to know his good fortune, if he have well consulted these Soothsayers.</p>
+            <p>But who the Devil dubb'd these, forlorn dregs of Mortality, the clip'd Knights of the Post? Astrologers are at a Stand: some will have <hi>Proteus</hi> to be their Father, because of the several <hi>Long-lane</hi> shapes and dresses that they appear in; for they are sometimes
+<pb n="9" facs="tcp:204983:9"/> Divines, sometimes Country Gentlemen sometimes Physicians, sometimes Mer<g ref="char:EOLhyphen"/>chants, sometimes Serving-men, as the thing to be sworn to requires them to be in Of<g ref="char:EOLhyphen"/>fice. Astronomers will allow them no room in Heaven, for that Perjury is the only Crime that is punishable among the Gods: There<g ref="char:EOLhyphen"/>fore, saith <hi>Tostatus,</hi> they are an Apparent Ar<g ref="char:EOLhyphen"/>gument for the Excellency of Man above Angells; <hi>Coruptio optima est pessima.</hi> There<g ref="char:EOLhyphen"/>fore are men so much the more Excellent than Angels, by how much they, the mere corruption of Mankind, are worse then De<g ref="char:EOLhyphen"/>vils.</p>
+            <p>These men, with the <hi>Epicureans,</hi> place their chief Happiness in this World, coun<g ref="char:EOLhyphen"/>ting the meanest Conveniences thereof great Blessings; such as Pots of Ale, and sixpeny Cuts of <hi>Ram-</hi>alley Roast beef: With the <hi>Sadduces</hi> they hold the Mortality of the Soul, otherwise they would never sell their Salvation so cheap; half a crown a time, come as often as you please. Yet are they of great use among a certain Generation of Vipers called <hi>annointed Knaves.</hi> When an annointed Knave comes with these finishing Tools of his to compleat a Tittle, there is no resistance, the case is made so plain: then shall you see without Fryar <hi>Bakon's</hi> Art, the strange Motions of <hi>Terra firma</hi> out of
+<pb n="10" facs="tcp:204983:10"/> one Family into another: Mountains, with<g ref="char:EOLhyphen"/>out the help of Faith removed out of one man's Possession into the Poss<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssion of ano<g ref="char:EOLhyphen"/>ther. If you aim at the life of a man, they put down all the time, observing poysons of <hi>Ethiopia,</hi> they'l doe your work so gentelely and so legally, that you get Repute by the Prosecution. They'l swear, that such a one lying asleep, they saw his soul go out of his mouth booted and spurr'd, take horse, ride to such a place, do such a Murther, commit such a Felony, or act such and such Treasons. Now because (as <hi>Boccalini</hi> saieth) that it is so hard a matter to punish a false oath with<g ref="char:EOLhyphen"/>out discouraging a true one; such as rob upon the High-way, and take but 10 shil<g ref="char:EOLhyphen"/>lings from a man, shall be hanged; and these sons of Perdition that strike at the root of Life, Estate and Fortune, shall only loose their Ears, which they value no more than <hi>Esop's</hi> Cock did Diamonds: Pieces of flesh, which they hold, made in opposition to the great Maxim in Philosophy, That Nature does nothing in vain, as being of no use in the body of Man.</p>
+            <p>'Tis good to fight with Silver weapons, for then thou shalt overcome all things, saith the Greek Poet: Which is the reason a true Suborner is never without a Guard of these <hi>Janizaries</hi> at his heels, especially in Term▪
+<pb n="11" facs="tcp:204983:10"/> time. These are they that so cordially pimp for the Devil, as if they thought him to be Disposer of all Inheritances; as Lord of the World. They have made a Feoffment of their Souls with Livery and Seisin to Satan, only taking a short Lease back again. And therefore are resolved to make all people they have to deal withall turn Tenants to their Landlord. If a Councellor or Attorney chance to take their Fee, what villanies must he not conceal? what Treacheries, what Forgeries is he not bound to be privy to? what defences must he not make o<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> injustice and wrong? what, the worst of actions must he not strive to palliate, daub over with the <hi>fucus</hi> of forced <hi>Eloquence,</hi> quite contrary to the dictates of either Reason or Consci<g ref="char:EOLhyphen"/>ence? Those that have calculated their Na<g ref="char:EOLhyphen"/>tivities, banish them from the Societie of men, as the most dangerous and treacherous persons in the world; and wonder, finding it so much threatned by the starrs, that no more of them are hang'd; there being no Crime in the world that more deserves death. About this time many significations derive themselves from <hi>Mars,</hi> who is <hi>Au<g ref="char:EOLhyphen"/>thor Bellorum.</hi> Now he being in one of his greatest Dignities with <hi>Mercury,</hi> such a Conjunction portends many strifes and ani<g ref="char:EOLhyphen"/>mosities among men, <hi>for a fiery Planet in a</hi>
+               <pb n="12" facs="tcp:204983:11"/>
+               <hi>sign of the same Triplicitie, receives an additi<g ref="char:EOLhyphen"/>on of violence to its own intemperate nature.</hi> This is the reason of those swarms of igno<g ref="char:EOLhyphen"/>rant Solicitors, and worse then ignorant At<g ref="char:EOLhyphen"/>torneys, whose multiplication would prove a greater plague to this Nation then <hi>Vermin</hi> to the <hi>Egyptians:</hi> therefore among the well regu<g ref="char:EOLhyphen"/>lated Common wealth of the <hi>Lacedemonians</hi> Law suits were not heard of. And well did <hi>Charles</hi> the 9th of <hi>France,</hi> who, to prevent needless and numberless Suites of Law, or<g ref="char:EOLhyphen"/>dained that whoever commenced a Suit of Law, should deposite such a Sum with the Judge, to receive it back, if his cause were good, or forfeit it, if the same prov'd frivo<g ref="char:EOLhyphen"/>lous. Not worse did <hi>James</hi> of <hi>Arragon</hi> who banished <hi>Semeng Rada</hi> a great Pettifogger for his being famons only for quirks and wiles in Law: But better did <hi>Galeatius</hi> of <hi>Millain,</hi> who hanged another for his excel<g ref="char:EOLhyphen"/>lent Art of multiplying suites. Surely such bands of Locusts, might be better emploied then in the Ruin of the Poor and Needie, whose <hi>Cries</hi> why they do not call down Showers of Brimstone and Fire upon these impious Miscreants, when some Casuists have not been able to answer, it has made them totter in their Divinity?</p>
+            <p>But what is the matter that our A<g ref="char:EOLhyphen"/>strologers keep <hi>Hercules</hi> so close mu'd up
+<pb n="13" facs="tcp:204983:11"/> up in the Skie, when we have so much need of him here upon Earth? Here is one more to make up his Labours a <hi>Bakens-</hi>dozen, that will more renown him than all his o<g ref="char:EOLhyphen"/>ther twelve: Nay, let him bring <hi>Theseus</hi> too; here's work enough for them both; for there be a sort of <hi>Augean</hi> Stables about this City, whose Keepers never cate Less then two poor folks at a meal, more cruel than <hi>Diomed</hi> that fed his horses with human flesh; more inhumane, more merciless than the great robbers <hi>Sciron</hi> or <hi>Pityolanthes,</hi> more terrible than the <hi>Lerenean</hi> Monster, should they be broyl'd roasted, gridled, sing'd, ba<g ref="char:EOLhyphen"/>ked ten thousand years in <hi>Purgatory,</hi> they would be as sooty as when first put in. But Cruelty seldome goes unrewarded, and such is the Happiness of these fellows, that they seldom last above a Pope's Reign, be<g ref="char:EOLhyphen"/>ing generally poysoned either with lim'd, sack or stumm'd Claret, in less then five years. <hi>Saturn</hi>'s a melancholy sign, and who can hinder him from being as froppish and as humer some as he pleases upon his own day; which is the reason that there be some Citizens that can as well be hang'd as keep out of the Nine-pin Houses in <hi>Moor Fields</hi> on a Saturday, to be out of the sight of those ghastly apparitions that haunt their Ghosts at the heel of the week. <hi>Poverty</hi>
+               <pb n="14" facs="tcp:204983:12"/> and <hi>Necessity</hi> the Gods of the <hi>Andreans,</hi> that could stop the mouth of <hi>Themistocles,</hi> can<g ref="char:EOLhyphen"/>not appease the wrath of a City Creditor; the Proverb reversed, <hi>Dunn upon the Devil.</hi> whose emptie mony bagg, twisted about his hand, is as killing as a <hi>Gorgon</hi>'s head; and therefore 'tis well the poor man is out of the way he's only practising the sports which are to be his only Recreations in a short time: and what a kindness it is for a man to be removed from the cares and labours of this world to the sweet pleasures of drin<g ref="char:EOLhyphen"/>king and kettles? 'Tis well these <hi>Despera<g ref="char:EOLhyphen"/>do</hi>'s in Estate are not so strong as <hi>Sampson;</hi> for they would not then put their Landlords key under the Door, but take away key house and all. What abundance of Tra<g ref="char:EOLhyphen"/>vellers should we meet upon the road with Houses and Shops furnish'd? And what Landlord, seeing a man standing upon the sea<g ref="char:EOLhyphen"/>shore with his house upon his back, swea<g ref="char:EOLhyphen"/>ring he would send it to the bottom of the Ocean, but would come to any composition? Besides they were out of the reach of the Law, for there is no Statute in <hi>Polton</hi> a<g ref="char:EOLhyphen"/>gainst removing of houses, so a man Carry them whole without breaking: But the li<g ref="char:EOLhyphen"/>mits of fate are certain; <hi>the Cobler cannot go beyond his Last,</hi> nor a man beyond his strength; there was but one <hi>Nisus,</hi> one <hi>Her<g ref="char:EOLhyphen"/>cules,</hi>
+               <pb n="15" facs="tcp:204983:12"/> one <hi>Sampson,</hi> the first two never arre<g ref="char:EOLhyphen"/>sted that we read of, and for the latter how he paid off his Creditors we very well know. Therefore now a days 'tis better for debtors to fall to their Prayers, beseech, entreate, lie, flatter dissemble, swear, forswear, set an In<g ref="char:EOLhyphen"/>strument to work with the wise, such tricks as these,</p>
+            <q>Sint semper studiis arma parata tuis.</q>
+            <p>If these will not prevail, expect no other deliverance but as <hi>Daniel</hi> got out of the Lyons Den, or <hi>Jonas</hi> out of the Whales belly.</p>
+         </div>
+         <div type="prognostications_by_month">
+            <div n="January" type="month">
+               <pb n="16" facs="tcp:204983:13"/>
+               <head>January<hi>'s Observations.</hi>
+               </head>
+               <p>THE Weather is very cold, and Chari<g ref="char:EOLhyphen"/>ty far more cold. The womens Bene<g ref="char:EOLhyphen"/>volence flows all into the convention Channel. Their husbands bosomes hard fro<g ref="char:EOLhyphen"/>zen like the weather, not to be thaw'd by all the steams of Plum-broth and Plum-Pye that make such mists in their Kitchins; On<g ref="char:EOLhyphen"/>ly the Cellar man, in hope to be pai'd at one time or other, and partly out of the Le<g ref="char:EOLhyphen"/>cherie they have in cozening and cheating with false measures and nasty Tobacco, is at length contented to let his dear <hi>Euridices,</hi> his <hi>Beer</hi> and his <hi>Brandy</hi> take a little air out of his Infernal regions. But the hot strum<g ref="char:EOLhyphen"/>pets leave such violent claps behind them in the Pockets of the poor Prisoners, that no <hi>Aqua fortis</hi> cats so violently into a <hi>fob</hi> as they do. Only the Cellar man has one <hi>Re<g ref="char:EOLhyphen"/>cipe</hi> to stop the violence of the <hi>Gonorrhea,</hi> by crying in a Lion-like tone, <hi>I'le trust no more.</hi> Yet men that are pickt up in the Holydayes have not so much reason to complain; for though they fare not so well as they might abroad, yet they are sure to be kept from surfeiting where they are, surely 'tis a hard case that such <hi>Enormities</hi> are winkt at, that
+<pb n="17" facs="tcp:204983:13"/> where poor men ought to have most, best and cheapest, there they have the worst, least and dearest of all things. Now the reason is such that all the seven wise men of <hi>Grece</hi> could not have given the like; because the Master Keeper lets his Cellar at a Rack rent, because he himself has paid so dear for the Custody of his Den: A strange kind of Chymistrie, however it came to be allowed of, that a man should be permitted to pur<g ref="char:EOLhyphen"/>chase an Iron-barr'd <hi>Limbeck,</hi> to act con<g ref="char:EOLhyphen"/>trary to <hi>nature,</hi> while he makes it his busi<g ref="char:EOLhyphen"/>ness all his life to extract something out of nothing, and having reduced men to no<g ref="char:EOLhyphen"/>thing out of the <hi>Caput mortuum</hi> of their pe<g ref="char:EOLhyphen"/>risht Estates, to make himself somthing: who could have thought A Jailor had been such a <hi>Caldean Magician</hi> before?</p>
+            </div>
+            <div n="February" type="month">
+               <pb n="18" facs="tcp:204983:14"/>
+               <head>February<hi>'s Observations.</hi>
+               </head>
+               <p>THis Month many men shall be car<g ref="char:EOLhyphen"/>ried over to the <hi>Kings-Bench,</hi> with <hi>Habeas Corpuses;</hi> a piece of sheeps skin, that would make you believe that beast to be the most <hi>suttle</hi> and <hi>cruel</hi> in the world: Truly 'tis a beast of a strange Kid<g ref="char:EOLhyphen"/>ney after death, and as we are apt to believe, the only beast that cries <hi>quit</hi> for <hi>quo</hi> with his Devourer, man: by and by devouring him alive for feeding on his dead carcase before: wicked Conspiracy between the silliest of Creatures, the <hi>sheep</hi> and the <hi>Goose,</hi> to be so sharp in their <hi>revenge:</hi> which makes men seem the greatest Sots in nature to be made such <hi>Fools</hi> of, by <hi>Geese</hi> and <hi>Sheep.</hi> Thus are the cunning <hi>foxes</hi> carri'd away by the violence of a <hi>Sheep-skin</hi> into the <hi>Hesperiant</hi> Gardens of <hi>Southwark,</hi> where, though there are no <hi>Gol<g ref="char:EOLhyphen"/>den Apple Trees</hi> growing, yet they shall find many Lions waking for their Security. Some say that the Prisoners themselves are changed into Golden Appletrees, which so long as they bear fruit, the Lyon is as gentle as a <hi>Red Herring,</hi> but if they wither and grow dry, they are presently cut down and made fuel for the <hi>Common Goal.</hi> Nay your two
+<pb n="19" facs="tcp:204983:14"/>
+                  <hi>Janizaries,</hi> your Brace of guardian <hi>angels</hi> will forsake you for want of a little Chamber rent: Otherwise <hi>Polyphemus</hi> himself is civil enough, and will be content to have his own eye put out for a while, while <hi>Ʋlysses</hi> es<g ref="char:EOLhyphen"/>capes under the belly of his <hi>Golden fleece.</hi> Now under what Planets the <hi>Tipstaves</hi> and <hi>Waiters</hi> were born, we cannot well conje<g ref="char:EOLhyphen"/>cture; we believe <hi>Mercury,</hi> though not as he was a <hi>god,</hi> but a <hi>Gusman.</hi> They are a sort of Vermin that believe not only the <hi>Moon,</hi> but all mankind to be made of <hi>green cheese,</hi> so like <hi>Rats</hi> and <hi>Mice</hi> do they alto<g ref="char:EOLhyphen"/>gether live and feed upon it. They are clearly of <hi>Horaces</hi> Opinion, or at least seem to have been his Scholars in this one particu<g ref="char:EOLhyphen"/>lar, for they measure the credit of a man, and repute of his Virtues, according to the length of his purse, and depth of his chest. This month the wandring Planets of this Re<g ref="char:EOLhyphen"/>gion have Liberty, by their Rules, to bolt out of their burrows up and down into the City, and laugh at their irreligious Cre<g ref="char:EOLhyphen"/>ditors.</p>
+            </div>
+            <div n="March" type="month">
+               <pb n="20" facs="tcp:204983:15"/>
+               <head>March<hi>'s Observations.</hi>
+               </head>
+               <p>BUt now 'tis Vacation, Every man to his <hi>Cage,</hi> No budging without the Territo<g ref="char:EOLhyphen"/>ries of S. <hi>George.</hi> Room enough a-conscience for the holy <hi>Exercises</hi> there performed, <hi>Dice<g ref="char:EOLhyphen"/>ing, drabbing, drinking. Venus</hi> is very Powerful here, but <hi>Bacchus</hi> much more, being indeed the very <hi>Baal Peor</hi> of this place. As for the stars of the first Magnitude, you shall find them at the <hi>Leg</hi> or the <hi>Golden Lyon;</hi> but all must not be such, for then what would the lesser orbs of <hi>Alehouses</hi> do for the Com<g ref="char:EOLhyphen"/>fort of their enclining <hi>Influences.</hi> But, quoth the Creditors, What tydings does your hea<g ref="char:EOLhyphen"/>venly Post bring yee concerning the pay<g ref="char:EOLhyphen"/>ment of our Debts? not a tittle by <hi>Jove.</hi> No my dear friends, this is the Land of <hi>Oblivion.</hi> Not a quartern of <hi>Brandy</hi> but is an Antidote against <hi>Sorrow,</hi> not a pipe of <hi>Wine,</hi> or a bar<g ref="char:EOLhyphen"/>rel of <hi>Beer,</hi> but was perfect <hi>Letye.</hi> In a short while they forget you, in a long time you forget them. Alas, should all men pay their debts, Some would have nothing left, and others would have all; there would be no <hi>flux</hi> and <hi>reflux</hi> of Fortune, should the Tide run all one way, no loss aswel as again, and cheating would have too great an inco<g ref="char:EOLhyphen"/>ragement
+<pb n="21" facs="tcp:204983:15"/> should it alwaies prosper. Prove that ever, in any age of the world, all men paid their Debts, and we will entreat the starrs to let ye have it so again. But do you think to alter the course of Nature for your humours? Having received this sad news from the heavenly Intelligencer, the Poor Creditors are as various in their Humour as the weather. The <hi>Mercer</hi> shakes his head and cries, <hi>I'le spend five hundred pounds before I'le be thus trapann'd.</hi> The Milliner cries<hi>—Hang't give us t'other Cup of Sack 'tis well 'tis no worse—by my soul the Gentleman seemed to me to be such an honest man, that I would have trusted him with all the goods in my Shop.</hi> The Poor Taylor holding his hands under his Arm Pitts, well quoth he, <hi>I know as cunning a fellow as any is in</hi> England, <hi>and if there be ever a trick i'the Law, Begarr, I'le make him smoke for't. Ad's foot he ows me beside for above a twelve months Lodging.—But a Pox a my Wife she is so willing to entertain handsom Gentlemen.</hi>
+               </p>
+            </div>
+            <div n="April" type="month">
+               <pb n="22" facs="tcp:204983:16"/>
+               <head>April's <hi>Observations.</hi>
+               </head>
+               <p>THE <hi>Semstress</hi> melts into tears like the Month, and cries, <hi>He might have bin more kind to her, she was sure she was none of his back friend—'Twas a most ungentleman like part to undo a poor wo<g ref="char:EOLhyphen"/>man in both senses.</hi> But let them all say or doe what they will, Prisons are like the Well in <hi>Derbyshire,</hi> that turns the tenderer sub<g ref="char:EOLhyphen"/>stance of <hi>Iron</hi> into <hi>Stone,</hi> so when a man is once put in prison, his heart becomes <hi>Petri<g ref="char:EOLhyphen"/>fy'd</hi> to that excess, so that neither the soft words of a flattering <hi>Creditor,</hi> nor the most sharp and piercing execrations of a passio<g ref="char:EOLhyphen"/>nate one, can make the least impression there<g ref="char:EOLhyphen"/>in. Now <hi>Astrologers,</hi> unless they can have the Goodluck to lie with their <hi>Mistresses,</hi> being generally very poor, and great <hi>Borrow<g ref="char:EOLhyphen"/>ers,</hi> make a Dispute, whether a man ought to be compell'd against his will to pay his Debts or no? <hi>Saturn</hi> a Sage Planet and a great Law-giver among the <hi>Latins,</hi> was positively in the negative: for, saith he, If according to the Maxime of the Law, <hi>no injury can be done to him that is willing;</hi> then it follows, that all Injurie must be done to him that is unwilling: now what greater Injury can be
+<pb n="23" facs="tcp:204983:16"/> done to a man, than to compel him to pay Money against his will, whether he has it or no? Again, no man was ever compell'd to lend mony; what reason then why a man should be compell'd to repay it? Other<g ref="char:EOLhyphen"/>wise lending of Mony seems a kind of inven<g ref="char:EOLhyphen"/>tion of man to <hi>trapan</hi> his fellow creature, to lend him money that he may afterwards make him his miserable slave and vassal and triumph over his Calamity. Then up stept <hi>Jupiter,</hi> and said, There was no reason, that that man who imprison'd the body of his <hi>Cre<g ref="char:EOLhyphen"/>ditor</hi> should be paid one farthing of his Debt, though it were to the ruin of the Creditor's wife and family. For, quoth he, There can be no greater Mischief done to a man than to ca<g ref="char:EOLhyphen"/>ptivate his body, and deprive him of his di<g ref="char:EOLhyphen"/>vine priviledge of <hi>Freedom;</hi> he then that in<g ref="char:EOLhyphen"/>tends the ruin of another, ought to have the same ruin intended, to himself: and he is wise that expends in <hi>Charity</hi> at home what'ere he has, rather than relieve his perishing Adver<g ref="char:EOLhyphen"/>sary.</p>
+            </div>
+            <div n="May" type="month">
+               <pb n="24" facs="tcp:204983:17"/>
+               <head>May's <hi>Observations.</hi>
+               </head>
+               <p>THey that deny Prisons to be <hi>Baudy-Houses</hi> are as much mistaken as 'ere they were in their lives, and may as well de<g ref="char:EOLhyphen"/>ny the Seven Planets; or, that <hi>Venus</hi> was translated to the Sky for being a <hi>Nunn</hi> and not a <hi>Whore:</hi> Surely the greatest Commenda<g ref="char:EOLhyphen"/>tion to a Prison, is, that it renders Matrimony most savoury, where the pleasures thereof are most stoln: but it most extreamly com<g ref="char:EOLhyphen"/>mends their Charity one among another, for lending their chambers to their fellow Priso<g ref="char:EOLhyphen"/>ners. For which some alledge the lawful<g ref="char:EOLhyphen"/>ness of Matrimony; others, that are for the more noble way of <hi>Pimping</hi> defend them<g ref="char:EOLhyphen"/>selves by the example of <hi>Heliogabolus</hi> who was wont to lend his Baths and Wen<g ref="char:EOLhyphen"/>ches to his friends and acquaintance when e<g ref="char:EOLhyphen"/>ver they desired it. And to tell you the truth you will find so little of Mortification among them, that they are generally of <hi>Solon</hi> and <hi>Aristotles</hi> opinions, that Whores are not onely useful but necessary in a well instituted Common-wealth, such as generally all Pri<g ref="char:EOLhyphen"/>sons are, especially <hi>Ludgate,</hi> and the <hi>Fleet.</hi> Corporeal Recreations, they crie, Mitigate corporeal punishments. Neither was it e<g ref="char:EOLhyphen"/>ver
+<pb n="25" facs="tcp:204983:17"/> recorded among them, that any one that was ever put in ever pray'd himself out. And some have observed that on <hi>Black-Fry<g ref="char:EOLhyphen"/>ers</hi> side, where you may hear them as duly at <hi>Sternhold</hi> and <hi>Hopkins</hi> as at their morning draughts, and when their devotion is lou<g ref="char:EOLhyphen"/>dest yet that here their boxes are always emptiest.</p>
+            </div>
+            <div n="June" type="month">
+               <pb n="26" facs="tcp:204983:18"/>
+               <head>June's <hi>Observations.</hi>
+               </head>
+               <p>COmets and Ecclipses are generally the forerunners of strange Alterations in the sublunary world. But they were never yet so luckie as to foretel humanity in an un<g ref="char:EOLhyphen"/>der keeper; Not all the Influences of <hi>Sun</hi> or <hi>Moon,</hi> constellations or single starrs could ever alter their unalterable dispositions. Men before, but coming to that office, meta<g ref="char:EOLhyphen"/>morphosed on a suddain into <hi>Tigers, Wolves</hi> and <hi>Canibals.</hi> They may strut in fine clothes, fat with feasting on the forbidden fruits of extortion and selling unlawful libertie at such unlawful rates, that <hi>Nero</hi> could do no more when he gave more then <hi>Parthia</hi> was worth to the <hi>Parthian</hi> King to teach him the Art of <hi>Necromancie,</hi> though what will a Prisoner not do, that has it? what will he not expend, to conjure down, and appease the evil <hi>Demon</hi> that so torments and haunts him worse then the Ghost of <hi>Agrippina?</hi> Yet if any of them would be so kind as to melt in<g ref="char:EOLhyphen"/>to Mercy and Honestie we would certainly have a Cabal of Astrologers to place him in the Sky. What a miraculous thing would it be to see a Christian Officer shining in the room of a heathenish constellation? The Jaylor in the <hi>Acts</hi> fall down at the feet
+<pb n="27" facs="tcp:204983:18"/> of his two Prisoners, when he saw such a ter<g ref="char:EOLhyphen"/>rible <hi>Habeas Corpus</hi> come from heav'n tore<g ref="char:EOLhyphen"/>move them. But it is to be feared; had those Prisners bin here now, the Earth might have shook as well as the Prison, 'ere it could have shaken the heart of an <hi>English</hi> Petty Tyrant, that since the cannot alter them one way, they are resolved they shall be as unalterable another way; for by the unanimous consent of the whole host of Hea<g ref="char:EOLhyphen"/>ven, never any one of them, from the highest to the lowest ever did or shall die worth a groat.</p>
+            </div>
+            <div n="July" type="month">
+               <pb n="28" facs="tcp:204983:19"/>
+               <head>July's <hi>Observations.</hi>
+               </head>
+               <p>'TIs fair weather and therefore get ye gon to the <hi>Fleet,</hi> and there behold the no<g ref="char:EOLhyphen"/>ble Art of <hi>Chese-bowling; Angels,</hi> Board<g ref="char:EOLhyphen"/>end and Game:—Two pieces o'the Game; a piece the End,—Five to one o'the Cast,—A pleasing Noise for Credi<g ref="char:EOLhyphen"/>tors to hear! But who can help it—for these are your Trustee-men that have laid up their Estates in <hi>Lavender,</hi> and must have their Recreation, not to be confin'd to hu<g ref="char:EOLhyphen"/>mours, though humours confin'd them. And thus you see, if men can keep their Estates what your <hi>Capias,</hi> and your <hi>Latitats</hi> signifie. If you have a mind to walk into their Cham<g ref="char:EOLhyphen"/>bers you shall there find them as merry as Lords; some at <hi>dice,</hi> some at <hi>cards,</hi> some <hi>drinking,</hi> some <hi>roaring:</hi> and, you must know that if the Clerk be one that knows how to spread his <hi>bread</hi> and <hi>butter</hi> with his <hi>thumbs,</hi> 'tis not all your Art can keep 'um within the walls of the <hi>Bowling-</hi>Alley, or <hi>gate</hi> either. But have a Care of out-running the <hi>Constable.</hi> For when all's gon there's no more to be had: They'l sooner trust their Souls with the Devil, than a Prisoner with six-pence. If after you have spent all
+<pb n="33" facs="tcp:204983:19"/> you can live upon <hi>mouldy Proverbs</hi> of good <hi>Husbandry,</hi> old Sentences of <hi>Repentance,</hi> or enumerating your kindnesses in Prosperity to the Letter men, you may. And therefore endeavour to be one of <hi>Solomon</hi>'s Sons, and keep Company with none of them. Have a care of lying too much out of doors upon <hi>Security,</hi> for 'tis but a scurvy thing to be vi<g ref="char:EOLhyphen"/>sited in kindness twice or thrice a Month by <hi>Clericus in libro,</hi> and his two <hi>Gog-Magogs,</hi> with rugged cudgels and grimm faces, when the end is only to <hi>milk</hi> and <hi>spunge.</hi> Otherwise you may blame the stars when your own <hi>folly</hi> becoms your <hi>ruin:</hi> For if Prisons must be, and men must be arrested, it is the greatest Argu<g ref="char:EOLhyphen"/>ment in the world, for men to play the <hi>knave,</hi> and when they find themselves to begin to sink, to keep something for Self-preservati<g ref="char:EOLhyphen"/>on. Extremities will happen to all sorts of men, as well good as bad, and therefore they determine best, that best determine for their own safety.</p>
+            </div>
+            <div n="August" type="month">
+               <pb n="30" facs="tcp:204983:20"/>
+               <head>August's <hi>Observations.</hi>
+               </head>
+               <p>HE that thinks that <hi>Larks</hi> will fly roast<g ref="char:EOLhyphen"/>ed into his Mouth this Month, will be deceived, and therefore let every man look about him diligently to his Business, and keep out of Prison while he is out. 'Tis <hi>Harvest</hi> time, and therefore be sure to reap the Be<g ref="char:EOLhyphen"/>nefit of good <hi>Advice</hi> out of other mens <hi>harms.</hi> If a man has a Creditor that is over<g ref="char:EOLhyphen"/>cholerick, let him not be too hasty, for 'tis time and straw that mellow <hi>Medlars.</hi> Some are of Opinion that there is neither <hi>Love</hi> nor <hi>Hunger</hi> in Prisons, because the Stone walls are so seldom broken, but there's another reason that secures them, for both <hi>Lover</hi> and <hi>Hungry person</hi> are so continually ti<g ref="char:EOLhyphen"/>red with breaking of their Oaths, their Faith, their Vows, Promises and Words, that they have neither time nor strength left to perform any other exploit. He that in an Hundred pounds worth of <hi>Law,</hi> finds a half peny weight of <hi>Love</hi> shall be a very happy man. But he that finds a true friend in his Adversity shall be far happier: when thy <hi>Adversary</hi> makes use of a <hi>Lawyer,</hi> do you make use of a <hi>Lawyer</hi> and a half. He that has brought his <hi>Noble</hi> to <hi>Nine-pence,</hi> let him
+<pb n="31" facs="tcp:204983:20"/> never spare at the bottom, and when he has quite thwittend his Milpost to a pudding prick, let him in the Full of the Moon go and hang himself; least <hi>Poverty</hi> and <hi>cold Wea<g ref="char:EOLhyphen"/>ther</hi> take him napping together. He that has bit upon the Bridle, let him strive to make silver with his Teeth, and endeavour to recover himself by faring hard.</p>
+            </div>
+            <div n="September" type="month">
+               <pb n="36" facs="tcp:204983:21"/>
+               <head>September's <hi>Observations.</hi>
+               </head>
+               <p>THis Month the gods being met in <hi>Council,</hi> where there is also present, the great Judge <hi>Rhadamanthus,</hi> Advocate general <hi>Minos,</hi> and <hi>Eacus</hi> one of <hi>Jove's</hi> learned Council. <hi>Themis</hi> makes her Com<g ref="char:EOLhyphen"/>plaint that finding such a Reformation in our <hi>Architecture,</hi> she would fain have re<g ref="char:EOLhyphen"/>turn'd to the Earth again, but that she was so disturb'd with the Weekly <hi>Clamours</hi> in the Common-Hall, that she was forced to retire: <hi>Rhadamanthus</hi> urged, That though some Cities might have freedom to have the <hi>Law</hi> among themselves, yet that the <hi>Alga<g ref="char:EOLhyphen"/>zils</hi> and <hi>Paltrie Lictors</hi> had no permission to buy and sell the Law as they pleas'd, to make Combinations among themselves a<g ref="char:EOLhyphen"/>gainst their <hi>Clients;</hi> to let go <hi>Judgments</hi> by Default, to take Exorbitant Fees, with an hundred more of the same Nature. <hi>Eacus</hi> urged that <hi>Courts</hi> fill'd with the loud <hi>Ec<g ref="char:EOLhyphen"/>cho's</hi> of <hi>brangling</hi> and <hi>litigious</hi> Boyes and imperious <hi>Catch-poles,</hi> had too irreverent a Resemblance of a Court of <hi>Py-Pouder: Mines</hi> urg'd that there was an Office to which the Character of <hi>Noctes atque dies</hi> belonged: the Sinks and Common Sewers
+<pb n="37" facs="tcp:204983:21"/> into which all the <hi>Malice Envy, Rancour</hi> and <hi>Hatred</hi> of inveterate People spend it self. Where the <hi>Tenter-hooks</hi> of Oppression al<g ref="char:EOLhyphen"/>wayes are in such publick View, that Man, Woman, or Maid can hardly pass by <hi>Wood<g ref="char:EOLhyphen"/>street</hi> or the <hi>Poultry,</hi> without being catcht<g ref="char:EOLhyphen"/>hold of. Where men sit at receit of <hi>Injury,</hi> and mourn at the Tranquility and Peace of Neighbours.</p>
+            </div>
+            <div n="October" type="month">
+               <pb n="34" facs="tcp:204983:22"/>
+               <head>October's <hi>Observations.</hi>
+               </head>
+               <p>THis Mouth <hi>Themis</hi> appears again be<g ref="char:EOLhyphen"/>fore the gods, for Astrologers say, There are Terms in Heaven, as well as upon Earth: <hi>Rhadamanth</hi> urged that men did ill to undertake the <hi>Defences</hi> of trivial and im<g ref="char:EOLhyphen"/>modest Causes: that it was their Duty to tell their <hi>Clients</hi> the truth of their Causes, and to dehort them from <hi>Contention,</hi> rather than to encourage and exasperate people already by the Ears. That it was unusual to see <hi>Hominem solenni legis linteo velamine decoratum</hi> crouching to Inferiours: That it was not seemly to see Gentlemen hawking after the trivial defences of <hi>Baudery</hi> or infa<g ref="char:EOLhyphen"/>mous <hi>Scolding;</hi> looking about as greedily after their Prey, as the <hi>Turks,</hi> on set days, gape for <hi>Mahomet. Pluto,</hi> alwayes feed in bad Causes, urg'd that they had paid large Sums for their places. But old <hi>Saturn</hi> ca<g ref="char:EOLhyphen"/>sting a <hi>Sardonic smile</hi> upon him, call'd <hi>Pluto, Poltron</hi> and <hi>Bocca di Porco;</hi> for, said he, There is nothing arm's a Purchaser more with defence of unjust Dealings, than money given for an Employment, which makes Petty Courts, where <hi>Law</hi> is made to be like the <hi>Bush,</hi> to which while <hi>Sheep</hi> repair for
+<pb n="35" facs="tcp:204983:22"/> shelter, they are sure to loose a <hi>Fleece.</hi> Then <hi>Minos</hi> urged his Complaint, you may guess against whom, The very sweepings of the Nation, who after three or four times <hi>Break<g ref="char:EOLhyphen"/>ing,</hi> thrust themselves into <hi>Varlet's</hi> Offices, to torment others, as they had been tormented before. But would men from daily Expe<g ref="char:EOLhyphen"/>rience discover what Tricks they play, what <hi>Leiger-de-main</hi> they use, what juggling there is among them; it were an easie thing, by the Assistance of the Stars, to tell their <hi>For<g ref="char:EOLhyphen"/>tunes,</hi> and prognosticate their Removal from all the publick places of the City, where their Attendance might be rationally dispen<g ref="char:EOLhyphen"/>ced with.</p>
+            </div>
+            <div n="November" type="month">
+               <pb n="40" facs="tcp:204983:23"/>
+               <head>November's <hi>Observations.</hi>
+               </head>
+               <p>THere shall be great Bickering in the Country about Under-sheriffs places, and there's Fifty pounds odds, according to the Humour of <hi>Venus;</hi> and then it goes hard with the Country Prisoners: for is it not Reason the poor <hi>Country-slaves</hi> should pay, when their Keepers petition for <hi>Relief?</hi> But they that buy dear must sell dear: and therefore 'tis a strange thing, how blind some people will be, for though they have a Writ in their <hi>Pockets,</hi> and the person walks just under their Noses, yet they cannot see him for their lives: which proceeds from a wonderful <hi>Conjunction</hi> of <hi>Sol</hi> and <hi>Luna</hi> in Palm of the <hi>Right hand.</hi> The Station of <hi>Sa<g ref="char:EOLhyphen"/>turn</hi> in <hi>Sagittary</hi> foretells the <hi>Failing</hi> of ma<g ref="char:EOLhyphen"/>ny <hi>Country Farmers:</hi> and their Credit is no sooner <hi>fly-blown,</hi> but the <hi>Magot-Bayliffs,</hi> are at their Tailes immediately. Now the poor Country People knowing no difference between <hi>Fiery Trigons,</hi> and <hi>Fieri fae<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>as, Ca. Sa.</hi> and <hi>Ca. Dra. Excom. Cap.</hi> and <hi>Mar. in Sag.</hi> Take all to be Conjurers or Astrolo<g ref="char:EOLhyphen"/>gers; especially when they finde them so truly Calculating the <hi>Fatal Destiny▪</hi> of their
+<pb n="41" facs="tcp:204983:23"/> Estates; But which are best Conjurers or <hi>Returna Breviums</hi> they cannot say, But the Stars are just, for the Year's no sooner out, but they meet either with the Pipe Of<g ref="char:EOLhyphen"/>fice, or Hell: where the first Punishment is to lie ten thousand years in the Sweat of their own Bayliff's toes.</p>
+            </div>
+            <div n="December" type="month">
+               <pb n="38" facs="tcp:204983:24"/>
+               <head>December's <hi>Observations.</hi>
+               </head>
+               <p>SOme <hi>Charity</hi> is intended this Month by well disposed Persons for the Relief of poor Pris'ners in several Places: and some few of the Richer sort shall send Baskets of <hi>scraps</hi> to the poor people: the <hi>refuse</hi> of their pub<g ref="char:EOLhyphen"/>lick Tables pretending it to be <hi>Charity.</hi> But <hi>Theseus</hi> and <hi>Piritheus</hi> denies it so to be: swearing by <hi>Pluto</hi> and <hi>Cerberus,</hi> that it is a Frantick <hi>Relick</hi> of the Number 666. to call it either <hi>Benevolence</hi> or <hi>Charity,</hi> for they say, That it can be no <hi>Charity</hi> to send the <hi>Orts</hi> and <hi>scambled Mammocks</hi> of a super<g ref="char:EOLhyphen"/>fluous Table, that they knew not what in the world to do with else, especially when there is never a <hi>Bone</hi> that has not been su<g ref="char:EOLhyphen"/>pervised and diligently corrected and amen<g ref="char:EOLhyphen"/>ded above three or four times by the most elaborate Stomacks of the place. To tell ye the Truth on't, what strange <hi>Constellations</hi> did rule the <hi>Charity-</hi>basket in 74. we are not well able to say: however 'twas worth the seeing to take an Observation from thence, of the Dimensions of some mens <hi>Benevolence.</hi> Certain it was, that year was very <hi>severe,</hi> which caused many poor men to blaspheme one of the most noble Vir<g ref="char:EOLhyphen"/>tues.
+<pb n="39" facs="tcp:204983:24"/>
+                  <hi>Charity</hi> ought to flow franck and free from the <hi>Kitchins</hi> of Publick Magi<g ref="char:EOLhyphen"/>strates; their <hi>Scraps</hi> and <hi>Mammocks</hi> is no more than what the poor senseless Animal expects for his Service, and claims as his due. He that will be Charitable must <hi>Give, Give his own,</hi> and <hi>that which is wholesome</hi> and <hi>con<g ref="char:EOLhyphen"/>venient:</hi> So that, he that only sends from his superfluous Banquets the <hi>Orts</hi> and <hi>Frag<g ref="char:EOLhyphen"/>ments</hi> of other mens Contributions, may have the <hi>Honour</hi> to give <hi>Admittance</hi> to the <hi>Poors Basket,</hi> but never get the true Character of a <hi>Charitable person:</hi> for she is a most chast Vertue, and not to be adulterated by fictitious Imitations and Ostentations of <hi>Re<g ref="char:EOLhyphen"/>alities.</hi> But what need so much <hi>Charity;</hi> when all the Prisons have their Foot-Posts running from place to place with Boxes and Petitions for the sake of <hi>Jesus Christ</hi> and the <hi>Good Time:</hi> But truly there are so many <hi>Heresies</hi> and <hi>Sects</hi> that care neither for <hi>Christ,</hi> nor his <hi>Good time</hi> neither, that the Trade of <hi>Begging for Christ's sake</hi> is hardly worth fol<g ref="char:EOLhyphen"/>lowing now a dayes; and all Helps are lit<g ref="char:EOLhyphen"/>tle enough, especially, when ye consider, That 'tis not a small thing that must main<g ref="char:EOLhyphen"/>tain a proud Master and his Wife to boot.</p>
+            </div>
+         </div>
+         <div type="miscellany">
+            <div type="anatomy_table">
+               <pb n="44" facs="tcp:204983:25"/>
+               <head>
+                  <hi>ANATOMY</hi> of the Body.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Ale and</cell>
+                        <cell>
+                           <hi>Head &amp; Brains</hi>
+                        </cell>
+                        <cell>Brandy.</cell>
+                     </row>
+                     <row>
+                        <cell>Cravatta</cell>
+                        <cell>
+                           <hi>Neck &amp; Throat</hi>
+                        </cell>
+                        <cell>Louzia,</cell>
+                     </row>
+                     <row>
+                        <cell>Short-pot</cell>
+                        <cell>
+                           <hi>Arms &amp; shoulders</hi>
+                        </cell>
+                        <cell>Long-pot.</cell>
+                     </row>
+                     <row>
+                        <cell>Cursed</cell>
+                        <cell>
+                           <hi>Breast &amp; stomach</hi>
+                        </cell>
+                        <cell>Mundungus</cell>
+                     </row>
+                     <row>
+                        <cell>Aurum</cell>
+                        <cell>
+                           <hi>Heart &amp; Back</hi>
+                        </cell>
+                        <cell>Potabile.</cell>
+                     </row>
+                     <row>
+                        <cell>Clean sheets</cell>
+                        <cell>
+                           <hi>Bowels &amp; Belly</hi>
+                        </cell>
+                        <cell>Fetherbeds.</cell>
+                     </row>
+                     <row>
+                        <cell>Thread-bare</cell>
+                        <cell>
+                           <hi>Reins &amp; Loins</hi>
+                        </cell>
+                        <cell>Gowns.</cell>
+                     </row>
+                     <row>
+                        <cell>Gonorrh.</cell>
+                        <cell>
+                           <hi>Secret Members</hi>
+                        </cell>
+                        <cell>Fetida.</cell>
+                     </row>
+                     <row>
+                        <cell>Balneum</cell>
+                        <cell>
+                           <hi>Thighs</hi>
+                        </cell>
+                        <cell>Marie.</cell>
+                     </row>
+                     <row>
+                        <cell>Rub and</cell>
+                        <cell>
+                           <hi>Legs</hi>
+                        </cell>
+                        <cell>a good cast.</cell>
+                     </row>
+                     <row>
+                        <cell>Briba</cell>
+                        <cell>
+                           <hi>Feet</hi>
+                        </cell>
+                        <cell>Cerberum.</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="advice">
+               <head>Rules for Husbandry.</head>
+               <p>SOw the seeds of <hi>Dissention</hi> from the first of <hi>January</hi> to the last of <hi>December. October, January, April, May</hi> and <hi>June.</hi> If thou hast a cunning Creditor to deal with, <hi>Set a Knave to catch a Knave,</hi> for those Months contain the usual <hi>Terms</hi> of the year. In <hi>Aprill</hi> and <hi>September</hi> gather thy Rent, and if thou hast a good Crop, make good use of it, for 'tis the best Flower in thy Gar<g ref="char:EOLhyphen"/>den. At <hi>Mdsummer</hi> shear they Tenants
+<pb n="45" facs="tcp:204983:25"/> with new Leases, and at <hi>Michaelmas</hi> cut thy <hi>Coat according to thy Cloth.</hi> At <hi>Christ<g ref="char:EOLhyphen"/>mas,</hi> when thou hast got Money in thy Poc<g ref="char:EOLhyphen"/>ket, 'twill be good pruning of Taylor's Bills. In <hi>January, February</hi> and <hi>December,</hi> being idle Months, sow all thy wild <hi>Oats:</hi> In <hi>March,</hi> if thou hast a good Stock, set up for thy self: then be a good Husband, and thou shalt reap well for thy self. Have a care of letting <hi>Coneys</hi> burrough in thy Shop-book, 'twill be hard <hi>Ferreting</hi> them out again. Make <hi>Hay</hi> while the Sun shines; but have a care of thrusting thy <hi>Sickle</hi> into another man's <hi>Corn.</hi> Have a care, in a dear time, of parting with thy <hi>Hay,</hi> unless thou hast good store of <hi>Oats</hi> for it. He that has an expensive Wife, let him lop off her super<g ref="char:EOLhyphen"/>fluous extravagancies at the beginning of the Year, least they grow in a short time past his Reach. <hi>Hearts-ease</hi> is a rare Flower, keep good store of it in thy Garden. And as for <hi>Flower gentle,</hi> a good Husband would not be without it that hath variety of Deal<g ref="char:EOLhyphen"/>ings in the world. <hi>Ragwort,</hi> a Weed, keep it out of thy ground: But for <hi>Herb-grace,</hi> keep it all the year long if thou canst.</p>
+            </div>
+            <div type="eclipses">
+               <pb n="42" facs="tcp:204983:26"/>
+               <head>Eclipses.</head>
+               <p>AN Eclipse is the <hi>Interposition</hi> of a <hi>Stone Dublet between a Man and the Street.</hi>
+               </p>
+               <p>When a man is first arrested and carried to the <hi>Hen and Chickens,</hi> or <hi>Rose and Crown,</hi> (to the unspeakable Scandal of the Law, at the Expence of 2 <hi>s.</hi> per night, for onely lodging, besides the continual Visits of Ser<g ref="char:EOLhyphen"/>jeants, who, (like Physitians) seldome goe away empty) this is called a <hi>Half Eclipse.</hi>
+               </p>
+               <p>When a Man is hurried from thence for want of Money, into the <hi>Compter,</hi> or by Duce, to <hi>Ludgate,</hi> or elsewhere, by <hi>Hab. Corp.</hi> this is a <hi>Total Eclipse.</hi>
+               </p>
+               <p>
+                  <hi>Sol,</hi> or <hi>Man,</hi> may be eclipsed an hun<g ref="char:EOLhyphen"/>dred several wayes;</p>
+               <p>
+                  <hi>Women,</hi> or <hi>Luna,</hi> are not so generally e<g ref="char:EOLhyphen"/>clipsed, and then they must be either Maids, Widdows, or sole Traders.</p>
+               <p>Of both these <hi>Eclipses</hi> there will be some thousands this year, one with another.
+<pb n="43" facs="tcp:204983:26"/> But they shall be only visible in the proper <hi>Horizons,</hi> or <hi>Jayles</hi> where the Eclipsed Bo<g ref="char:EOLhyphen"/>dies move.</p>
+               <p>Yet some of these <hi>Eclipses</hi> shall become visible in <hi>Ethiopia, Persia, China, Barbado's, Virginia,</hi> and other remote parts, being such as have made escapes, or else withdrawn themselves by Connivance out of the Rules.</p>
+            </div>
+            <div type="poems_on_the_months">
+               <head>Of the Houses of the Planets.</head>
+               <lg>
+                  <head>January.</head>
+                  <l>HE that in Prison wants both <hi>Fire</hi> and <hi>Chink,</hi>
+                  </l>
+                  <l>Where had he better be, than there d' ye think?</l>
+                  <l>You'l say in <hi>Hell—</hi>for there's both heat and gold;</l>
+                  <l>Not so, for that's as hot, and this too cold.</l>
+               </lg>
+               <lg>
+                  <head>February.</head>
+                  <l>But better were he to be Stallion tame,</l>
+                  <l>To some (like <hi>Messalina)</hi> swinging Dame:</l>
+                  <l>For then exhausted, breaking Arm or Legg,</l>
+                  <l>For <hi>Ale</hi> and <hi>Capon</hi> he at length may beg.</l>
+               </lg>
+               <lg>
+                  <pb n="48" facs="tcp:204983:27"/>
+                  <head>March.</head>
+                  <l>Taylors trust not in <hi>March,</hi> or if ye doe,</l>
+                  <l>Be merciful like <hi>April,</hi> never sue;</l>
+                  <l>For <hi>March</hi> of <hi>April</hi> borrows, but nee'r pays,</l>
+                  <l>Yet <hi>April</hi> ne'er brought Action for her Days.</l>
+               </lg>
+               <lg>
+                  <head>April.</head>
+                  <l>Fathers must die; and then in happy hours,</l>
+                  <l>Just like the Month, their Heirs rain golden showrs:</l>
+                  <l>'Tis for the Month, quoth they, to wash the Earth,</l>
+                  <l>Our tears are salt, and therefore little worth.</l>
+               </lg>
+               <lg>
+                  <head>May.</head>
+                  <l>Like to the Fields, young Gallants now ap<g ref="char:EOLhyphen"/>pear</l>
+                  <l>As brisk and gaudy as the springing year.</l>
+                  <l>Their golden bags shine in their Tropick hight,</l>
+                  <l>Who ever then could think it should be Night.</l>
+               </lg>
+               <lg>
+                  <head>June.</head>
+                  <l>The Portion's coming, Fill the t'other quart,</l>
+                  <l>So is the Girl, powder on't, there's the smart:</l>
+                  <l>But hang't, as long as there's Cash i' this life,</l>
+                  <l>A Kennel of Whores is sawce for a Wife.</l>
+               </lg>
+               <lg>
+                  <pb n="49" facs="tcp:204983:27"/>
+                  <head>July.</head>
+                  <l>
+                     <hi>Squire,</hi> do you want another thousand pound?</l>
+                  <l>You may command it, <hi>Squire,</hi> on your own word:—</l>
+                  <l>I know your Father well, that's under ground,</l>
+                  <l>And therefore while it lasts, near spare my Hoard.</l>
+               </lg>
+               <lg>
+                  <head>August.</head>
+                  <l>
+                     <hi>Squire,</hi> 'Tis twelve Month now, since first, I lent;</l>
+                  <l>And men are mortal, pardon my intent,</l>
+                  <l>I only do't for something, Sir, to show;</l>
+                  <l>Not to make use of, Heaven above doth know.</l>
+               </lg>
+               <lg>
+                  <head>September.</head>
+                  <l>Sir, I've an Execution against ye—how—</l>
+                  <l>And ne'r arrested—We can't tell—'tis so—</l>
+                  <l>What's to be done?—Sir, here's a House hard by,</l>
+                  <l>A piece in hand—wee'l keep you privately.</l>
+               </lg>
+               <lg>
+                  <pb n="50" facs="tcp:204983:28"/>
+                  <head>October.</head>
+                  <l>What have ye seen your Friend yet? no—the Serjeant's mad—</l>
+                  <l>Y'are here so long—a Crown—and I'le perswade,</l>
+                  <l>There's one more Writ—We knew't not by my Soul;</l>
+                  <l>Another had it, we could not controul.</l>
+               </lg>
+               <lg>
+                  <head>November.</head>
+                  <l>Has the Dog serv'd me thus? to stay's no pur<g ref="char:EOLhyphen"/>pose:</l>
+                  <l>Get me an Attorney, I'le have an <hi>Harpus Corpus;</hi>
+                  </l>
+                  <l>I'le sing i'th Bench <hi>a Boat, a boat,</hi>
+                  </l>
+                  <l>And I'le see the Rogue hang'd, 'Ere I pay him a groat.</l>
+               </lg>
+               <lg>
+                  <head>December.</head>
+                  <l>At length the man in Execution dyes,</l>
+                  <l>Like Tavern Guests, that reckning has de<g ref="char:EOLhyphen"/>fraid;</l>
+                  <l>Ʋp comes the Drawer <hi>Death,</hi> and smartly cryes,</l>
+                  <l>Y'are kindly welcome, <hi>Gentlemen,</hi> all's paid.</l>
+               </lg>
+            </div>
+            <div type="list_of_English_fairs">
+               <pb n="51" facs="tcp:204983:28"/>
+               <head>The usual Fairs in <hi>England.</hi>
+               </head>
+               <div type="fair">
+                  <head>
+                     <hi>At</hi> Layton-Buzzard, <hi>on St.</hi> Martin's <hi>day.</hi>
+                  </head>
+                  <p>THis <hi>Fair</hi> is altogether for <hi>Fools,</hi> viz. Those that bring their Hogs to a bad <hi>Market;</hi> those that buy and sell, and live by the loss: Those that have a mind to purchase false <hi>Heraldry,</hi> and St. <hi>Martin</hi>'s Gentility. For Jaylor's <hi>Honesty.</hi> Prison-Cellar-mens <hi>Pride.</hi> Turn<g ref="char:EOLhyphen"/>keys <hi>Knavery,</hi> Prisoner's <hi>Idleness,</hi> Shop<g ref="char:EOLhyphen"/>keepers <hi>Prodigality,</hi> Prentises <hi>Falshood,</hi> Gentlemens <hi>Beggery,</hi> Gamester's <hi>Treachery,</hi> Chancery <hi>Suits,</hi> Jury-men's<hi>-Consciences,</hi> Phy<g ref="char:EOLhyphen"/>sitians <hi>Ignorance,</hi> Pothecaries <hi>Learning,</hi> Cre<g ref="char:EOLhyphen"/>ditors <hi>Mercy,</hi> Serjeants <hi>Piety,</hi> and Souldiers <hi>Religion.</hi>
+                  </p>
+               </div>
+               <div type="fair">
+                  <head>At <hi>Zeale</hi> in <hi>Devonshire.</hi> On <hi>Valentine's</hi> day.</head>
+                  <p>FOr <hi>Holy Sisters,</hi> mendicant Preachers, Schismaticks of all sorts and sizes, mu<g ref="char:EOLhyphen"/>sical Parish-Clarks, Needy Curates, rich
+<pb n="52" facs="tcp:204983:29"/> Queristers, godly Fidlers, Ceremonious Quakers, humble Dancing Masters, Trusty Chamber maids, and chast Whores: Seve<g ref="char:EOLhyphen"/>ral Wares are likewise here to be sold, as <hi>Foxe's Works, Naylor's Last Will and Testa<g ref="char:EOLhyphen"/>ment, Durants sweet Sippets of Consolation: New Lights of Four i'the pound, Geneva Coif's and cross-cloths, set forms of night Dis<g ref="char:EOLhyphen"/>course among the Brethren.</hi> For Shoos that will tye of themselves: For Looking-glasses with Fancies ready set, as if Butter would not melt in their Mouths. Cordials for weak Speakers. Barrels of Pickled Non-sence for Strong Holders forth. <hi>Opiums</hi> to procure Repentance, Wash balls for sin; and many more Trinkets of the same nature.</p>
+               </div>
+               <div type="fair">
+                  <head>At <hi>Euill</hi> in <hi>Summersetshire,</hi> on St. <hi>Judas's</hi> day.</head>
+                  <p>FOr Knights of the Post, Kings Bench-li<g ref="char:EOLhyphen"/>berty Fleet-Oaths, fobb'd City actions, Sheriffs-court pleadings: King's Bench, Fleet and Compters Offices. Caps for the Memo<g ref="char:EOLhyphen"/>ry made of <hi>Prisners</hi> skuls that dyed in Exe<g ref="char:EOLhyphen"/>cution; for Dispensations, for Perjury, and in brief for all sorts of Knaves in grain.</p>
+               </div>
+               <div type="fair">
+                  <pb n="53" facs="tcp:204983:29"/>
+                  <head>At <hi>Maiden▪Bradly</hi> in <hi>Wiltshire.</hi>
+                  </head>
+                  <p>FOr Crack'd Virgins, Expensive Wives, theevish Nurses, Portionless Matches, riotous sons, undutiful daughters, Claps, Go<g ref="char:EOLhyphen"/>norrhea's and Suburb-Quacks.</p>
+               </div>
+               <div type="fair">
+                  <head>At <hi>Dunstable</hi> in <hi>Bedford shire.</hi>
+                  </head>
+                  <p>FOr all sorts of Cattel, as Bull-pated Country Pettyfoggers, Goatish Clerks, Bear-Bayliffs, Bore-Serjeants, Lyon-like Plantiffs, Sheepish Defendants, Fox-like Conveyancers, Litigious Asses, Dromedary Proctors, and Pack-horse Promoters, Fox<g ref="char:EOLhyphen"/>skins for Scriveners, and Badgers-sur for Usurers.</p>
+               </div>
+               <div type="fair">
+                  <head>
+                     <hi>Horn-Fair,</hi> at <hi>Charlton</hi> in <hi>K<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nt,</hi> on St. <hi>Luke's</hi> day.</head>
+                  <p>STallions of all Sorts, Coachmen, and Gentlemen-Ushers for great Ladies; Monkeys and Island-Curs for private Uses, Licences for <hi>Poligamy;</hi> Cures for crack'd maiden-heads; Remedies for weak Backs, Complaints, Excuses and Pretences for all
+<pb n="54" facs="tcp:204983:30"/> sorts of Women; treacherous Midwives, Nurses for Bastards at small rates. Forms of Bonds for putting off Children. Speedy helps for Barrenness, Cloaks for Adulteresses; with twenty more Knicknacks of the same Nature.</p>
+               </div>
+               <pb facs="tcp:204983:30"/>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
